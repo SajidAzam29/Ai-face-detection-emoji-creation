@@ -1,0 +1,2 @@
+# Ai-face-detection-emoji-creation
+This project is based on the Keras library of deep learning technology. In order to recognize facial emotions, we have built a convolution neural network. After that, we fed our model with the FER2013 dataset. And finally, we map each facial emotion with its corresponding emojis or avatars. To detect the bounding box of images in the webcam or video  we use the OpenCV’s Haar cascade XML. In the end, we serve these boxes to the trained model for the purpose of classification.
